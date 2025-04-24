@@ -1,0 +1,13 @@
+pandas
+numpy
+undetected-chromedriver==3.5.5
+selenium==4.18.1
+requests
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+transformers
+torch
+textblob
